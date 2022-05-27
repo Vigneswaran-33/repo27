@@ -1,7 +1,7 @@
 import java.util.Scanner; vic
 import java.io.printer; hhhftdtdftf
-import java.io.collection; 
-import java.io.scanner;
+ftdrstrsdf
+gsaiimport java.io.scanner;
 import java.io.outputprinter;
 import java.io.inputprinter;
 public class SpiralPatternExample2
